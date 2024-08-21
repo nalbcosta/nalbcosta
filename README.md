@@ -1,7 +1,7 @@
 ![](banner_gif.gif)
 ### Hi 👋
 I am computer science student looking for opportunities and collabaration in projects related to development and programming.
-- 🧠 I'm currently working with Python and Java
+- 🧠 I'm currently working with Python, Java, JS, Node.JS, Express and HTML/CSS
 - 📘 I'm still learning and evolving.
 - 🤝 I’m looking to collaborate on back-end and front-end development. 
 - ✉️ "I'm actually pretty smart when you get to know me.", Fred Tomaselli.
