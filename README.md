@@ -9,7 +9,7 @@ I am computer science student looking for opportunities and collabaration in pro
 - ✉️ "I'm actually pretty smart when you get to know me.", Fred Tomaselli.
 ***
 ## Development Stats
-![nalbcosta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nalbcosta&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) ![nalbcosta's Stats](https://github-readme-stats.vercel.app/api?username=nalbcosta&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact)
+![nalbcosta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nalbcosta&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ![nalbcosta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nalbcosta&theme=tokyonight&hide_border=true&layout=compact)
 
 _____
