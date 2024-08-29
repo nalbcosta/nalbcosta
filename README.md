@@ -3,8 +3,8 @@
 I am computer science student looking for opportunities and collabaration in projects related to development and programming.
 - 🧠 I'm currently working with ***Python, Java, JS, Node.JS, Express and HTML/CSS***
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width = "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width = "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width = "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width = "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width = "30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width = "30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width = "30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "30" />
-- 📘 Actually learning ***Mongo.DB*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width = "30" height = "30"/>
-- 🧑‍💼 Currently interning as IT Support and JS Developer at Grupo JL 
+- 📘 Currently learning ***Mongo.DB*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width = "30" height = "30"/>
+- 🧑‍💼 Currently interning as JS Developer at Grupo JL 
 - 🤝 I’m looking to collaborate on back-end and front-end development. 
 - ✉️ "I'm actually pretty smart when you get to know me.", Fred Tomaselli.
 ***
